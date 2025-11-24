@@ -16,3 +16,7 @@ VALUES
     ('סומק', 49.90, 1),
     ('גלוס', 39.00, 2),
     ('פודרה שקופה', 150.90, 3);
+
+INSERT INTO training.makeup_products (product_name, price, store_id)
+VALUES
+    ('סומק', 59.90, 3);
