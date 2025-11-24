@@ -4,5 +4,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ef08badc-0b83-4a0b-9c46-943c339cd8ab/console.sql" value="ef08badc-0b83-4a0b-9c46-943c339cd8ab" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ef08badc-0b83-4a0b-9c46-943c339cd8ab/console_1.sql" value="ef08badc-0b83-4a0b-9c46-943c339cd8ab" />
     <file url="file://$PROJECT_DIR$/schemas/01_create_tables.sql" value="ef08badc-0b83-4a0b-9c46-943c339cd8ab" />
+    <file url="file://$PROJECT_DIR$/schemas/02_insert_sample_data.sql" value="ef08badc-0b83-4a0b-9c46-943c339cd8ab" />
+    <file url="file://$PROJECT_DIR$/schemas/03_tables_connections.sql" value="ef08badc-0b83-4a0b-9c46-943c339cd8ab" />
   </component>
 </project>
