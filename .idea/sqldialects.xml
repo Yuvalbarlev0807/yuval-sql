@@ -2,6 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/queries/makeup_products_table/01_select_basics.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/makeup_products_table/02_add_columes.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/makeup_products_table/03_join_queries.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/queries/stores_table/    01_select_basics.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/queries/stores_table/02_add_columes.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/schemas/01_create_tables.sql" dialect="PostgreSQL" />

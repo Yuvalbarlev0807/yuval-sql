@@ -10,6 +10,12 @@ VALUES
     ('סופר פארם', 'תל אביב'),
     ('מאק', 'באר שבע'),
     ('סאקרה', 'חולון');
+INSERT INTO training.stores (store_name, city)
+VALUES
+    ('גוד פארם', 'לוד'),
+    ('קיקו מילאנו', 'הרצליה'),
+    ('אפריל', 'ראשון לציון');
+
 
 INSERT INTO training.makeup_products (product_name, price, store_id)
 VALUES
